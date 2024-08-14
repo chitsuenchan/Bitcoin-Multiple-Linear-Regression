@@ -17,7 +17,7 @@ Supervised machine learning to create a model that predicts the Bitcoin price.
 Please download the PDF in this repo for more detail. Below only gives a brief overview.
 
 ## Motivation <a name="motivation"></a>
-This was a paper I wrote during my Masters degree. It achieved the highest mark on the course.
+This was a paper I wrote during my Masters degree which achieved 90% the highest on the course. I was highly motivated in this project due to my interest in statistics, maths, and using machine learning to make predictions.
 
 ## Data Sources <a name="features"></a>
 - Coindesk
